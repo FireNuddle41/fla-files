@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="isaac death animation.png">
+<SubTexture name="isaac death animation dead confirm0000" x="6242" y="5768" width="850" height="1855" frameX="-468" frameY="-541" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0001" x="2661" y="1945" width="889" height="1912" frameX="-429" frameY="-484" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0002" x="0" y="0" width="889" height="1945" frameX="-429" frameY="-453" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0003" x="889" y="0" width="889" height="1914" frameX="-429" frameY="-484" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0004" x="1778" y="0" width="887" height="1913" frameX="-431" frameY="-485" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0005" x="2665" y="0" width="887" height="1913" frameX="-431" frameY="-485" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0006" x="3552" y="0" width="887" height="1913" frameX="-431" frameY="-485" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0007" x="0" y="1945" width="887" height="1913" frameX="-431" frameY="-485" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0008" x="887" y="1945" width="887" height="1913" frameX="-431" frameY="-485" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0009" x="1774" y="1945" width="887" height="1913" frameX="-431" frameY="-485" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0010" x="3550" y="1945" width="886" height="1911" frameX="-432" frameY="-487" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0011" x="4439" y="0" width="887" height="1911" frameX="-431" frameY="-487" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0012" x="5326" y="0" width="890" height="1910" frameX="-428" frameY="-488" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0013" x="0" y="3858" width="893" height="1910" frameX="-425" frameY="-488" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0014" x="893" y="3858" width="896" height="1908" frameX="-422" frameY="-490" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0015" x="1789" y="3858" width="898" height="1907" frameX="-420" frameY="-491" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0016" x="2687" y="3858" width="900" height="1905" frameX="-418" frameY="-493" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0017" x="3587" y="3858" width="901" height="1903" frameX="-417" frameY="-495" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0018" x="4488" y="3858" width="903" height="1901" frameX="-415" frameY="-497" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0019" x="6216" y="0" width="904" height="1898" frameX="-414" frameY="-500" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0020" x="7120" y="0" width="906" height="1891" frameX="-412" frameY="-507" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0021" x="0" y="5768" width="907" height="1874" frameX="-411" frameY="-524" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0022" x="2607" y="5768" width="908" height="1856" frameX="-410" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0023" x="3515" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0024" x="4424" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0025" x="5333" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0026" x="5333" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0027" x="5333" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0028" x="5333" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0029" x="5333" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0030" x="5333" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0031" x="5333" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0032" x="5333" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation dead confirm0033" x="5333" y="5768" width="909" height="1856" frameX="-409" frameY="-542" frameWidth="1561" frameHeight="2398" />
+<SubTexture name="isaac death animation died loop0000" x="11426" y="5547" width="850" height="1843" frameX="-3" frameY="-31" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0001" x="7120" y="1891" width="853" height="1874" frameX="0" frameY="0" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0002" x="7120" y="3765" width="853" height="1874" frameX="0" frameY="0" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0003" x="5326" y="1910" width="850" height="1863" frameX="-3" frameY="-11" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0004" x="4439" y="1911" width="850" height="1863" frameX="-3" frameY="-11" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0005" x="7092" y="5768" width="850" height="1854" frameX="-3" frameY="-20" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0006" x="8026" y="0" width="850" height="1854" frameX="-3" frameY="-20" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0007" x="10576" y="1852" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0008" x="10576" y="3701" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0009" x="10576" y="5550" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0010" x="10576" y="7399" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0011" x="0" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0012" x="850" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0013" x="1700" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0014" x="2550" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0015" x="3400" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0016" x="4250" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0017" x="11426" y="7390" width="850" height="1843" frameX="-3" frameY="-31" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0018" x="6216" y="1898" width="853" height="1874" frameX="0" frameY="0" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0019" x="6216" y="3772" width="853" height="1874" frameX="0" frameY="0" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0020" x="907" y="5768" width="850" height="1863" frameX="-3" frameY="-11" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0021" x="1757" y="5768" width="850" height="1863" frameX="-3" frameY="-11" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0022" x="8026" y="1854" width="850" height="1854" frameX="-3" frameY="-20" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0023" x="8026" y="3708" width="850" height="1854" frameX="-3" frameY="-20" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0024" x="5100" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0025" x="5950" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0026" x="6800" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0027" x="7650" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0028" x="8500" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0029" x="9350" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0030" x="10200" y="9494" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0031" x="11426" y="0" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0032" x="11426" y="1849" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation died loop0033" x="11426" y="3698" width="850" height="1849" frameX="-3" frameY="-25" frameWidth="853" frameHeight="1874" />
+<SubTexture name="isaac death animation dies0000" x="1665" y="11343" width="885" height="1523" frameX="-418" frameY="-300" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0001" x="12276" y="4801" width="1054" height="1556" frameX="-324" frameY="-267" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0002" x="12276" y="1682" width="1054" height="1562" frameX="-324" frameY="-267" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0003" x="12276" y="0" width="1594" height="1682" frameX="0" frameY="-147" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0004" x="12276" y="0" width="1594" height="1682" frameX="0" frameY="-147" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0005" x="12276" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0006" x="12276" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0007" x="12276" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0008" x="12276" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0009" x="12276" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0010" x="12276" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0011" x="12276" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0012" x="12276" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0013" x="12276" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0014" x="13047" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0015" x="13047" y="6357" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0016" x="12276" y="7891" width="771" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0017" x="13047" y="7891" width="790" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0018" x="13047" y="7891" width="790" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0019" x="12276" y="9425" width="805" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0020" x="11426" y="9233" width="814" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0021" x="11426" y="9233" width="814" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0022" x="5391" y="3858" width="818" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0023" x="5391" y="3858" width="818" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0024" x="0" y="11343" width="829" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0025" x="829" y="11343" width="836" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0026" x="829" y="11343" width="836" height="1534" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0027" x="12276" y="3244" width="850" height="1557" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0028" x="12276" y="3244" width="850" height="1557" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0029" x="12276" y="3244" width="850" height="1557" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0030" x="12276" y="3244" width="850" height="1557" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0031" x="12276" y="3244" width="850" height="1557" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0032" x="12276" y="3244" width="850" height="1557" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0033" x="12276" y="3244" width="850" height="1557" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0034" x="12276" y="3244" width="850" height="1557" frameX="-521" frameY="-295" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0035" x="8026" y="5562" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0036" x="8876" y="0" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0037" x="8876" y="1852" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0038" x="8876" y="3704" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0039" x="8876" y="5556" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0040" x="0" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0041" x="850" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0042" x="1700" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0043" x="2550" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0044" x="3400" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0045" x="4250" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0046" x="5100" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0047" x="5950" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0048" x="6800" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0049" x="7650" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0050" x="8500" y="7642" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0051" x="9726" y="0" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0052" x="9726" y="1852" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0053" x="9726" y="3704" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0054" x="9726" y="5556" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0055" x="9726" y="7408" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0056" x="10576" y="0" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+<SubTexture name="isaac death animation dies0057" x="10576" y="0" width="850" height="1852" frameX="-521" frameY="0" frameWidth="1594" frameHeight="1852" />
+</TextureAtlas>
